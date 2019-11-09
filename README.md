@@ -1,4 +1,4 @@
-# Code Challenge for Scoutbase
+# weekendGraphQL
 
 This directory includes two subdirectories:
 
